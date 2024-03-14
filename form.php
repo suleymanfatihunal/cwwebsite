@@ -31,13 +31,13 @@ if (isset($_POST['gonder'])) {
     echo "
     <script> 
     alert('İleti başarıyla gönderildi');
-    document.location.href ='index.php';
+    document.location.href ='api/index.php';
     </script>
     ";
 }
 else {
     echo "<script> 
     alert('İleti maalesef gönderilemedi');
-    document.location.href ='index.php';
+    document.location.href ='api/index.php';
     </script>";
 }
