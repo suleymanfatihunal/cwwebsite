@@ -52,7 +52,7 @@
             ><i class="bx bxl-instagram"></i
           ></a>
         </div>
-        <a href="#" class="btn">Download CV</a>
+        <a href="cv/cv.pdf" target="_blank" class="btn">Download Cv</a>
       </div>
       <div class="home-img">
         <img src="images/home.png" alt="" />
@@ -97,7 +97,7 @@
               <div class="portfolio-layer">
                   <h4>Randevu Alma Sitesi</h4>
                   <p>Kullanıcının rahatça randevu alabileceği kullanışlı bir randevu alma sitesidir.</p>
-                  <a href="#"><i class='bx bx-link-external'></i></a>
+                  <a href="https://github.com/suleymanfatihunal"  target="_blank"><i class='bx bx-link-external'></i></a>
               </div>
           </div>
         <div class="portfolio-box">
@@ -105,7 +105,7 @@
             <div class="portfolio-layer">
                 <h4>Araba Galerisi Sitesi</h4>
                 <p>Kullanıcılarınıza araçlarınızı tanıtabileceğiniz ve sizinle iletişime geçebilecekleri bir sitedir.</p>
-                <a href="#"><i class='bx bx-link-external'></i></a>
+                <a href="https://github.com/suleymanfatihunal" target="_blank"><i class='bx bx-link-external'></i></a>
             </div>
         </div>
       <div class="portfolio-box">
@@ -115,7 +115,7 @@
               <p>İşletmeler ve kişisel kullanım için siteler.
                  Daha fazlası için github hesabıma bakabilirsiniz.
               </p>
-              <a href="#"><i class='bx bx-link-external'></i></a>
+              <a href="https://github.com/suleymanfatihunal"  target="_blank"><i class='bx bx-link-external'></i></a>
           </div>
       </div>
   </div>
